@@ -1,4 +1,9 @@
 body {
 
-    background-color: aqua;
+    background-color: rgba(24, 24, 24, 0.842);
+    color: antiquewhite;
+    text-align: center;
+    border: solid 10px;
+    border-radius: 100px;
+
 }
